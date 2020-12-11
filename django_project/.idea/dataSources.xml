@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="recorddb" uuid="3cda8515-de4a-48f9-a68d-f4f0ef9b0b9f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/recommender/userprofile/116921d6bdda381e/recorddb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="recommenddb" uuid="b0499183-a7f5-406a-bbe4-496aa0753786">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/recommender/userprofile/36feb02abb13986a/recommenddb</jdbc-url>
+    </data-source>
+  </component>
+</project>
